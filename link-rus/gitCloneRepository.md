@@ -9,6 +9,7 @@
 Как полностью перенести репозиторий a в b?
 Под полностью подразумевается, что должны сохраниться все ветки и все коммиты.
 
+**Answer:**
 
     git clone --bare git@git.test.com:my-repo-a.git
     git fetch origin
