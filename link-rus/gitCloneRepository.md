@@ -1,7 +1,9 @@
 Есть некоторый репозиторий с ветками master и develop:
+
     git@git.test.com:my-repo-a.git
     
 Есть также пустой репозиторий:
+
     git@git.test.com:my-repo-b.git
     
 Как полностью перенести репозиторий a в b?
